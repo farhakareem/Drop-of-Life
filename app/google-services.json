@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983752605119",
+    "firebase_url": "https://dropoflife-dd9f1.firebaseio.com",
+    "project_id": "dropoflife-dd9f1",
+    "storage_bucket": "dropoflife-dd9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983752605119:android:679a74be9b61e531",
+        "android_client_info": {
+          "package_name": "com.example.farha.dropoflife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983752605119-ia9bo8s1susebo2tn306k0nggclrbake.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farha.dropoflife",
+            "certificate_hash": "8cdc726c80fc4918ba55e6277a5b5601826bd478"
+          }
+        },
+        {
+          "client_id": "983752605119-a8lhf20hq3c0no9ct9qcacfs58g5jkha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPCVWYPSW8IGFH1O6SOJH-JYE1tZiZ1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983752605119-a8lhf20hq3c0no9ct9qcacfs58g5jkha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
