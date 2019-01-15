@@ -51,6 +51,7 @@
                 android:backgroundTint="@color/white"
                 android:hint="@string/prompt_email"
                 android:inputType="textEmailAddress"
+                android:textColor="@color/white"
                 android:paddingLeft="40dp"
                 android:paddingBottom="20dp"
                 android:textColorHint="@color/white" />
